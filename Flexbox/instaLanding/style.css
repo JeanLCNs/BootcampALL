@@ -1,0 +1,9 @@
+.container-insta{
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-insta img{
+    width: 70%;
+    height: 70%;
+}
